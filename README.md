@@ -75,6 +75,6 @@ RVIZ when mapping the room by navigating the AWS DeepRacer car:
 
 ![mapping-pic1](/media/mapping-pic1.png)
 
-![mapping-pic1](/media/mapping-pic1.png)
+![mapping-pic2](/media/mapping-pic2.png)
 
-![mapping-pic1](/media/mapping-pic1.png)
+![mapping-pic3](/media/mapping-pic3.png)
