@@ -78,3 +78,8 @@ RVIZ when mapping the room by navigating the AWS DeepRacer car:
 ![mapping-pic2](/media/mapping-pic2.png)
 
 ![mapping-pic3](/media/mapping-pic3.png)
+
+## Resources
+
+* AWS DeepRacer Opensource getting started: [https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md](https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md)
+* Installing ROS Noetic instructions: [http://wiki.ros.org/noetic/Installation/Ubuntu](http://wiki.ros.org/noetic/Installation/Ubuntu)
