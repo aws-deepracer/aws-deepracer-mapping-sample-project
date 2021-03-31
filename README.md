@@ -12,7 +12,7 @@ The source code is released under [Apache 2.0](https://aws.amazon.com/apache-2-0
 
 ### Prerequisites
 
-The DeepRacer device comes with all the pre-requisite packages and libraries installed for running the DeepRacer core application. More details about pre installed set of packages and libraries on the DeepRacer, and installing required build systems can be found in the [Getting Started](https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md) section of the AWS DeepRacer Opensource page. The Mapping sample project requires the AWS DeepRacer application to be installed on the device as it leverages the manual drive feature to control the car manually.
+The DeepRacer device comes with all the pre-requisite packages and libraries installed for running the DeepRacer core application. More details about pre installed set of packages and libraries on the DeepRacer, and installing required build systems can be found in the [Getting Started](https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/getting-started.md) section of the AWS DeepRacer Opensource page. The Mapping sample project requires the AWS DeepRacer application to be installed on the device as it leverages the manual drive feature to control the car manually.
 
 #### Intel [RealSense™ D435](https://www.intelrealsense.com/depth-camera-d435/) / [D435i](https://www.intelrealsense.com/depth-camera-d435i/)
 
@@ -81,5 +81,5 @@ RVIZ when mapping the room by navigating the AWS DeepRacer car:
 
 ## Resources
 
-* AWS DeepRacer Opensource getting started: [https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md](https://github.com/awsdeepracer/aws-deepracer-launcher/blob/main/getting-started.md)
+* AWS DeepRacer Opensource getting started: [https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/getting-started.md](https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/getting-started.md)
 * Installing ROS Noetic instructions: [http://wiki.ros.org/noetic/Installation/Ubuntu](http://wiki.ros.org/noetic/Installation/Ubuntu)
