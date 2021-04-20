@@ -1,5 +1,9 @@
 # Mapping with ROS Noetic on Ubuntu 20.04
 
+<p align="center">
+<img src="/media/deepracer_circle_sticker.png" width="250" height="250" >
+</p>
+
 ## Overview
 
 The Mapping sample project provides instructions for using the AWS DeepRacer and Intel [RealSense™ D435](https://www.intelrealsense.com/depth-camera-d435/) along with other open source tools to build a map of your surrounding using SLAM (Simultaneous Localization and Mapping).
