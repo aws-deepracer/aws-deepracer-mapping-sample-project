@@ -17,7 +17,7 @@ Follow these instructions to set up the AWS DeepRacer Mapping sample project.
 
 ### Prerequisites
 
-The AWS DeepRacer device comes with all the prerequisite packages and libraries installed for running the AWS DeepRacer core application. For more information about the pre-installed set of packages and libraries on the AWS DeepRacer and about installing the required build systems, see [Getting started with AWS DeepRacer OpenSource](https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/getting-started.md). The Mapping sample project requires the AWS DeepRacer application to be installed on the device as it leverages the manual drive feature to control the car manually.
+The AWS DeepRacer device comes with all the prerequisite packages and libraries installed for running the AWS DeepRacer core application. For more information about the preinstalled set of packages and libraries on the AWS DeepRacer, and about installing the required build systems, see [Getting started with AWS DeepRacer OpenSource](https://github.com/aws-deepracer/aws-deepracer-launcher/blob/main/getting-started.md). The Mapping sample project requires the AWS DeepRacer application to be installed on the device, as it leverages the manual drive feature to control the car manually.
 
 #### Intel [RealSense™ D435](https://www.intelrealsense.com/depth-camera-d435/) / [D435i](https://www.intelrealsense.com/depth-camera-d435i/)
 
